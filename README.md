@@ -5,49 +5,49 @@
     width="100px" 
   />
 
-  <h1>API Fórmula 1</h1>
+  # API Fórmula 1
 
-  <p>
-    Projeto desenvolvido durante a trilha da DIO (Digital Innovation One), API REST com dados de times e pilotos da Fórmula 1.
-  </p>
-</div>
-<!--END_SECTION:header-->
+Projeto de estudo desenvolvido durante o bootcamp da **DIO (Digital Innovation One)**.
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=DIO&message=Education&color=E94D5F&labelColor=202024" alt="DIO Project" />
-</p>
+A aplicação consiste em uma API REST inspirada no universo da Fórmula 1, utilizando **Node.js, TypeScript e Fastify** para disponibilizar informações sobre equipes e pilotos.
 
-# Formula 1 API
+## Sobre o projeto
 
-API REST desenvolvida com Node.js, TypeScript e Fastify para disponibilizar dados de equipes e pilotos da Fórmula 1.
+Este projeto foi desenvolvido acompanhando as videoaulas do bootcamp, reproduzindo os exemplos apresentados pelo professor e praticando os conceitos demonstrados durante as aulas.
+
+O objetivo principal foi ter contato com o desenvolvimento de uma API REST e conhecer ferramentas utilizadas no desenvolvimento backend.
 
 ## Funcionalidades
 
-- Listar equipes da Fórmula 1
-- Listar pilotos
-- Buscar piloto por ID
+* Listar equipes da Fórmula 1
+* Listar pilotos
+* Buscar piloto por ID
 
-## Tecnologias Utilizadas
+## Tecnologias
 
-- Node.js
-- TypeScript
-- Fastify
-- Fastify CORS
-- TSX
-- TSUP
+* Node.js
+* TypeScript
+* Fastify
+* Fastify CORS
+* TSX
+* TSUP
 
-## Objetivo do Projeto
+## Conceitos estudados
 
-O projeto foi criado com o objetivo de praticar o desenvolvimento de APIs REST utilizando Node.js e TypeScript, aplicando conceitos de rotas, CORS, organização de código e criação de endpoints com Fastify.
+* APIs REST
+* Rotas e endpoints
+* Parâmetros de requisição
+* CORS
+* Organização de código
+* Manipulação de dados
+* Desenvolvimento backend com Node.js
 
-## Aprendizados
+## Contexto
 
-Durante o desenvolvimento deste projeto, foi possível praticar conceitos importantes de backend utilizando Node.js, TypeScript e Fastify. Além da criação de rotas e endpoints de uma API REST, o projeto também ajudou no aprendizado sobre organização de código, utilização de CORS, manipulação de parâmetros e padronização de respostas da aplicação.
+Projeto desenvolvido como parte do bootcamp da DIO, acompanhando as explicações e exemplos apresentados durante as aulas.
 
-## Melhorias Futuras
+Este repositório faz parte do meu histórico de estudos e representa meu primeiro contato com os conceitos utilizados no projeto.
 
-- Adicionar banco de dados
-- Implementar validações nas rotas
-- Criar novos endpoints
-- Adicionar testes automatizados
-- Implementar autenticação
+## Próximos passos
+
+Pretendo revisar e reconstruir este projeto futuramente de forma independente, buscando compreender melhor cada parte do código e adicionar novas funcionalidades.
