@@ -48,7 +48,3 @@ O objetivo principal foi ter contato com o desenvolvimento de uma API REST e con
 Projeto desenvolvido como parte do bootcamp da DIO, acompanhando as explicações e exemplos apresentados durante as aulas.
 
 Este repositório faz parte do meu histórico de estudos e representa meu primeiro contato com os conceitos utilizados no projeto.
-
-## Próximos passos
-
-Pretendo revisar e reconstruir este projeto futuramente de forma independente, buscando compreender melhor cada parte do código e adicionar novas funcionalidades.
