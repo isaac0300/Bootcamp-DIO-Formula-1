@@ -4,6 +4,7 @@
     src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/logo.webp" 
     width="100px" 
   />
+</div>
 
   # API Fórmula 1
 
